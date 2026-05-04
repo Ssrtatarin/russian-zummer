@@ -1,0 +1,10 @@
+transformers
+datasets
+sentencepiece
+pandas
+numpy
+matplotlib
+scikit-learn
+accelerate
+tqdm
+ipykernel
